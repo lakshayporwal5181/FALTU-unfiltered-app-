@@ -80,7 +80,6 @@ class DateGPTRepository {
                 Log.e(TAG, "No candidates in response")
                 throw Exception("Could not generate analysis. Please try again with different text.")
             }
-
             val firstCandidate = responseBody.candidates.firstOrNull()
             if (firstCandidate == null) {
                 Log.e(TAG, "First candidate is null")
