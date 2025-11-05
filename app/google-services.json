@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602556511797",
+    "project_id": "faltu-77536",
+    "storage_bucket": "faltu-77536.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602556511797:android:07757187fd03bbc50d237c",
+        "android_client_info": {
+          "package_name": "com.example.faltu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8xoTwtP93wGlii0m6KFq58RaVxdTe1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
